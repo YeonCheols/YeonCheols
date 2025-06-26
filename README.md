@@ -50,7 +50,7 @@
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonCheols&theme=merko)](https://github.com/YeonCheols/github-readme-stats)
 
-  ## animal garden!!
+  ## Animal Garden!!
 
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=YeonCheols&utm_content=farm">
   <img
