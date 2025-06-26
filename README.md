@@ -46,9 +46,9 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![YeonCheols GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonCheols)](https://github.com/YeonCheols/github-readme-stats)
+  ![YeonCheols's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonCheols&hide=stars,contribs&show_icons=true&theme=merko)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonCheols)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonCheols)](https://github.com/YeonCheols/github-readme-stats)
   
 </div>
 
