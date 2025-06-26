@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  ![포트폴리오](https://www.ycseng.com)
+  [포트폴리오](https://www.ycseng.com)
   <br/>
   <br/>
   
