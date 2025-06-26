@@ -49,6 +49,16 @@
   ![YeonCheols's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonCheols&theme=merko&count_private=true)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonCheols&theme=merko)](https://github.com/YeonCheols/github-readme-stats)
+
+  ## animal garden!!
+
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=YeonCheols&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/YeonCheols"
+    width="600"
+    height="300"
+  />
+  </a>
   
 </div>
 
