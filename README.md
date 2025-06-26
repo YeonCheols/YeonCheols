@@ -48,7 +48,7 @@
   ## 🤔 Github Stats
   ![YeonCheols's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonCheols&theme=merko&count_private=true)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonCheols)](https://github.com/YeonCheols/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonCheols&theme=merko)](https://github.com/YeonCheols/github-readme-stats)
   
 </div>
 
